@@ -5,3 +5,4 @@ int main() {
     return 0;
 }
 
+    std::cout << "This is an added line." << std::endl;
